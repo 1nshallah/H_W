@@ -1,0 +1,736 @@
+/wiki/1C:Enterprise_programming_language
+Influeced, Influenced by not found
+/wiki/A_Sharp_(.NET)
+Influeced, Influenced by not found
+/wiki/A-0_System
+<table> not found
+/wiki/A%2B%2B
+<table> not found
+/wiki/ABC_ALGOL
+<table> not found
+/wiki/ACC_(programming_language)
+<table> not found
+/wiki/Accent_(programming_language)
+Influeced, Influenced by not found
+/wiki/Distributed_Application_Specification_Language
+<table> not found
+/wiki/Action!_(programming_language)
+Influeced, Influenced by not found
+/wiki/Actor_(programming_language)
+<table> not found
+/wiki/Adenine_(programming_language)
+<table> not found
+/wiki/Agilent_VEE
+Influeced, Influenced by not found
+/wiki/Agora_(programming_language)
+<table> not found
+/wiki/AIMMS
+Influeced, Influenced by not found
+/wiki/Algebraic_Logic_Functional_programming_language
+Influeced, Influenced by not found
+/wiki/Alma-0
+Influeced, Influenced by not found
+/wiki/Amiga_E
+<table> not found
+/wiki/Apex_(programming_language)
+Influeced, Influenced by not found
+/wiki/App_Inventor_for_Android_(programming_language)
+Influeced, Influenced by not found
+/wiki/APT_(programming_language)
+<table> not found
+/wiki/ARexx
+<table> not found
+/wiki/Argus_(programming_language)
+<table> not found
+/wiki/Assembly_language
+Influeced, Influenced by not found
+/wiki/AutoHotkey
+Influeced, Influenced by not found
+/wiki/Averest
+<table> not found
+/wiki/Axum_(programming_language)
+Influeced, Influenced by not found
+/wiki/Active_Server_Pages
+Influeced, Influenced by not found
+/wiki/Bash_(Unix_shell)
+Influeced, Influenced by not found
+/wiki/Bc_(programming_language)
+Influeced, Influenced by not found
+/wiki/Batch_file
+Influeced, Influenced by not found
+/wiki/Bertrand_(programming_language)
+<table> not found
+/wiki/Blockly
+Influeced, Influenced by not found
+/wiki/BlooP_and_FlooP
+<table> not found
+/wiki/Bourne_shell
+Influeced, Influenced by not found
+/wiki/Korn_shell
+Influeced, Influenced by not found
+/wiki/C/AL
+<table> not found
+/wiki/C_Shell
+Influeced, Influenced by not found
+/wiki/Cayenne_(programming_language)
+<table> not found
+/wiki/CDuce
+<table> not found
+/wiki/Cecil_(programming_language)
+<table> not found
+/wiki/Cesil
+<table> not found
+/wiki/C%C3%A9u_(programming_language)
+<table> not found
+/wiki/CFEngine
+Influeced, Influenced by not found
+/wiki/Cg_(programming_language)
+<table> not found
+/wiki/Ch_(computer_programming)
+Influeced, Influenced by not found
+/wiki/Charity_(programming_language)
+Influeced, Influenced by not found
+/wiki/CHIP-8
+<table> not found
+/wiki/ChucK
+Influeced, Influenced by not found
+/wiki/Clarion_(programming_language)
+Influeced, Influenced by not found
+/wiki/Clipper_(programming_language)
+Influeced, Influenced by not found
+/wiki/CLIPS_(programming_language)
+Influeced, Influenced by not found
+/wiki/CLIST
+<table> not found
+/wiki/CobolScript
+<table> not found
+/wiki/ColdFusion
+Influeced, Influenced by not found
+/wiki/Common_Intermediate_Language
+<table> not found
+/wiki/COMPASS
+<table> not found
+/wiki/Coq
+Influeced, Influenced by not found
+/wiki/Cryptol
+<table> not found
+/wiki/Csound
+Influeced, Influenced by not found
+/wiki/Communicating_sequential_processes
+<table> not found
+/wiki/Cybil_(programming_language)
+<table> not found
+/wiki/Cython
+Influeced, Influenced by not found
+/wiki/Datapoint%27s_Advanced_Systems_Language
+<table> not found
+/wiki/DataFlex
+<table> not found
+/wiki/Datalog
+<table> not found
+/wiki/DATATRIEVE
+Influeced, Influenced by not found
+/wiki/Dc_(computer_program)
+<table> not found
+/wiki/Dink_Smallwood#Modification
+Influeced, Influenced by not found
+/wiki/Dog_(programming_language)
+Influeced, Influenced by not found
+/wiki/DYNAMO_(programming_language)
+<table> not found
+/wiki/Data_analysis_expressions
+<table> not found
+/wiki/Easytrieve
+<table> not found
+/wiki/Edinburgh_IMP
+<table> not found
+/wiki/EGL_(programming_language)
+<table> not found
+/wiki/Easy_Programming_Language
+Influeced, Influenced by not found
+/wiki/Eltron_Programming_Language
+<table> not found
+/wiki/Executive_Systems_Problem_Oriented_Language
+<table> not found
+/wiki/Esterel
+<table> not found
+/wiki/EusLisp_Robot_Programming_Language
+<table> not found
+/wiki/CMS_EXEC
+<table> not found
+/wiki/EXEC_2
+<table> not found
+/wiki/Executable_UML
+<table> not found
+/wiki/FAUST_(programming_language)
+Influeced, Influenced by not found
+/wiki/Fj%C3%B6lnir_(programming_language)
+Influeced, Influenced by not found
+/wiki/Flavors_(programming_language)
+<table> not found
+/wiki/Flex_(language)
+<table> not found
+/wiki/FOCUS
+<table> not found
+/wiki/FOIL_(programming_language)
+<table> not found
+/wiki/FORMAC_(programming_language)
+<table> not found
+/wiki/Formula_language
+<table> not found
+/wiki/Game_Maker_Language
+Influeced, Influenced by not found
+/wiki/GameMonkey_Script
+<table> not found
+/wiki/General_Algebraic_Modeling_System
+Influeced, Influenced by not found
+/wiki/GAP_computer_algebra_system
+Influeced, Influenced by not found
+/wiki/G-code
+Influeced, Influenced by not found
+/wiki/GDScript
+Influeced, Influenced by not found
+/wiki/Geometric_Description_Language
+<table> not found
+/wiki/GEORGE_(programming_language)
+<table> not found
+/wiki/GLSL
+<table> not found
+/wiki/G%C3%B6del_(programming_language)
+Influeced, Influenced by not found
+/wiki/Golo_(programming_language)
+Influeced, Influenced by not found
+/wiki/Google_Apps_Script
+Influeced, Influenced by not found
+/wiki/IBM_1620#GOTRAN
+<table> not found
+/wiki/GPSS
+<table> not found
+/wiki/Computer_Sciences_Corporation
+Influeced, Influenced by not found
+/wiki/GRASS_(programming_language)
+<table> not found
+/wiki/Grasshopper_3D
+Influeced, Influenced by not found
+/wiki/HAGGIS
+<table> not found
+/wiki/HAL/S
+<table> not found
+/wiki/Halide_(programming_language)
+Influeced, Influenced by not found
+/wiki/Hamilton_C_shell
+Influeced, Influenced by not found
+/wiki/Hermes_(programming_language)
+<table> not found
+/wiki/High_Level_Assembly
+Influeced, Influenced by not found
+/wiki/High_Level_Shader_Language
+<table> not found
+/wiki/Hollywood_(programming_language)
+Influeced, Influenced by not found
+/wiki/TempleOS
+Influeced, Influenced by not found
+/wiki/Hopscotch_(programming_language)
+<table> not found
+/wiki/Hope_(programming_language)
+<table> not found
+/wiki/Hugo_(programming_language)
+<table> not found
+/wiki/Hume_(language)
+<table> not found
+/wiki/IBM_Basic_assembly_language
+<table> not found
+/wiki/IBM_HAScript
+<table> not found
+/wiki/IBM_Informix-4GL
+<table> not found
+/wiki/Irineu
+<table> not found
+/wiki/IDL_(programming_language)
+Influeced, Influenced by not found
+/wiki/Inform_(programming_language)
+Influeced, Influenced by not found
+/wiki/Visual_J%2B%2B
+<table> not found
+/wiki/JADE_(programming_language)
+<table> not found
+/wiki/JAL_(compiler)
+<table> not found
+/wiki/Janus_(concurrent_constraint_programming_language)
+Influeced, Influenced by not found
+/wiki/Janus_(time-reversible_computing_programming_language)
+Influeced, Influenced by not found
+/wiki/JASS
+<table> not found
+/wiki/JavaFX_Script
+Influeced, Influenced by not found
+/wiki/Job_Control_Language
+<table> not found
+/wiki/JEAN
+<table> not found
+/wiki/JScript
+Influeced, Influenced by not found
+/wiki/Jython
+Influeced, Influenced by not found
+/wiki/Kaleidoscope_(programming_language)
+<table> not found
+/wiki/IntelliCorp_(Software)
+Influeced, Influenced by not found
+/wiki/KiXtart
+Influeced, Influenced by not found
+/wiki/Klerer-May_System
+<table> not found
+/wiki/Knowledge_Interchange_Format
+<table> not found
+/wiki/KRYPTON
+<table> not found
+/wiki/Kodu_Game_Lab
+Influeced, Influenced by not found
+/wiki/Kivy_(framework)#Kv_language
+Influeced, Influenced by not found
+/wiki/LabVIEW
+Influeced, Influenced by not found
+/wiki/Ladder_logic
+<table> not found
+/wiki/LANSA_(development_environment)
+<table> not found
+/wiki/Lava_(programming_language)
+<table> not found
+/wiki/Little_Computer_3
+<table> not found
+/wiki/Legoscript
+Influeced, Influenced by not found
+/wiki/Little_Implementation_Language
+<table> not found
+/wiki/LilyPond
+Influeced, Influenced by not found
+/wiki/Limnor
+<table> not found
+/wiki/LINC_4GL
+<table> not found
+/wiki/Lingo_(programming_language)
+<table> not found
+/wiki/LIS_(programming_language)
+<table> not found
+/wiki/Language_for_Instruction_Set_Architecture
+Influeced, Influenced by not found
+/wiki/Lite-C
+Influeced, Influenced by not found
+/wiki/Lithe_(programming_language)
+<table> not found
+/wiki/Ethereum#Programming_languages
+Influeced, Influenced by not found
+/wiki/LotusScript
+<table> not found
+/wiki/LSE_(programming_language)
+<table> not found
+/wiki/Linden_Scripting_Language
+Influeced, Influenced by not found
+/wiki/LiveCode
+Influeced, Influenced by not found
+/wiki/Lustre_(programming_language)
+<table> not found
+/wiki/Lynx_(programming_language)
+<table> not found
+/wiki/M2001
+<table> not found
+/wiki/M4_(computer_language)
+Influeced, Influenced by not found
+/wiki/M_Sharp_(programming_language)
+Influeced, Influenced by not found
+/wiki/Machine_code
+<table> not found
+/wiki/Magik_(programming_language)
+<table> not found
+/wiki/Magma_computer_algebra_system
+Influeced, Influenced by not found
+/wiki/Maude_system
+<table> not found
+/wiki/M%C3%A1ni
+<table> not found
+/wiki/Maple_(software)
+Influeced, Influenced by not found
+/wiki/MAPPER
+<table> not found
+/wiki/MARK_IV_(software)
+<table> not found
+/wiki/Microsoft_Macro_Assembler
+Influeced, Influenced by not found
+/wiki/Mathematica
+Influeced, Influenced by not found
+/wiki/MATLAB
+Influeced, Influenced by not found
+/wiki/Maxima_(software)
+Influeced, Influenced by not found
+/wiki/Macsyma
+<table> not found
+/wiki/Max_(software)
+Influeced, Influenced by not found
+/wiki/Autodesk_3ds_Max
+Influeced, Influenced by not found
+/wiki/Maya_Embedded_Language
+<table> not found
+/wiki/Metafont
+Influeced, Influenced by not found
+/wiki/MHEG-5
+<table> not found
+/wiki/Microassembler
+<table> not found
+/wiki/MicroScript_(programming_language)
+<table> not found
+/wiki/MIIS_(programming_language)
+<table> not found
+/wiki/Milk_(programming_language)
+<table> not found
+/wiki/MIMIC
+<table> not found
+/wiki/Model_204
+<table> not found
+/wiki/Modelica
+Influeced, Influenced by not found
+/wiki/Mohol_programming_languages
+<table> not found
+/wiki/Mortran
+<table> not found
+/wiki/Mouse_(programming_language)
+<table> not found
+/wiki/MPD_(programming_language)
+<table> not found
+/wiki/Mathcad
+Influeced, Influenced by not found
+/wiki/MIRC_scripting_language
+Influeced, Influenced by not found
+/wiki/MuPAD
+Influeced, Influenced by not found
+/wiki/Mystic_BBS
+Influeced, Influenced by not found
+/wiki/Netwide_Assembler
+Influeced, Influenced by not found
+/wiki/Napier88
+<table> not found
+/wiki/Neko_(programming_language)
+Influeced, Influenced by not found
+/wiki/NESL
+Influeced, Influenced by not found
+/wiki/Net.Data
+Influeced, Influenced by not found
+/wiki/NEWP
+<table> not found
+/wiki/Nice_(programming_language)
+<table> not found
+/wiki/NORD_Programming_Language
+<table> not found
+/wiki/Not_eXactly_C
+<table> not found
+/wiki/Not_Quite_C
+<table> not found
+/wiki/Nullsoft_Scriptable_Install_System
+Influeced, Influenced by not found
+/wiki/NXT-G
+Influeced, Influenced by not found
+/wiki/O:XML
+<table> not found
+/wiki/Oak_(programming_language)
+<table> not found
+/wiki/OBJ2
+<table> not found
+/wiki/Object_Lisp
+<table> not found
+/wiki/ObjectLOGO
+<table> not found
+/wiki/GNU_Octave
+Influeced, Influenced by not found
+/wiki/OmniMark
+<table> not found
+/wiki/Onyx_(programming_language)
+<table> not found
+/wiki/Opal_(programming_language)
+<table> not found
+/wiki/OpenCL
+Influeced, Influenced by not found
+/wiki/OpenEdge_Advanced_Business_Language
+Influeced, Influenced by not found
+/wiki/Open_Programming_Language
+Influeced, Influenced by not found
+/wiki/OpenVera
+<table> not found
+/wiki/OPS5
+<table> not found
+/wiki/ORCA/Modula-2
+Influeced, Influenced by not found
+/wiki/Oriel_(scripting_language)
+Influeced, Influenced by not found
+/wiki/P_(programming_language)
+Influeced, Influenced by not found
+/wiki/P4_(programming_language)
+Influeced, Influenced by not found
+/wiki/PARI/GP
+Influeced, Influenced by not found
+/wiki/Programming_language_for_Computable_Functions
+<table> not found
+/wiki/PEARL_(programming_language)
+<table> not found
+/wiki/PeopleCode
+Influeced, Influenced by not found
+/wiki/Picolisp
+Influeced, Influenced by not found
+/wiki/Pig_(programming_tool)
+Influeced, Influenced by not found
+/wiki/PILOT
+<table> not found
+/wiki/PL-11
+<table> not found
+/wiki/PL/0
+<table> not found
+/wiki/PL/P
+<table> not found
+/wiki/PL/SQL
+<table> not found
+/wiki/PL360
+<table> not found
+/wiki/PLANC
+<table> not found
+/wiki/Planner_(programming_language)
+Influeced, Influenced by not found
+/wiki/PLEX_(programming_language)
+Influeced, Influenced by not found
+/wiki/PLEXIL
+Influeced, Influenced by not found
+/wiki/POP-11
+<table> not found
+/wiki/POP-2
+<table> not found
+/wiki/Amiga_E#PortablE
+<table> not found
+/wiki/POV-Ray
+Influeced, Influenced by not found
+/wiki/Powerhouse_(programming_language)
+Influeced, Influenced by not found
+/wiki/PowerBuilder
+Influeced, Influenced by not found
+/wiki/Polymorphic_Programming_Language
+<table> not found
+/wiki/Processing_(programming_language)
+Influeced, Influenced by not found
+/wiki/Processing.js
+Influeced, Influenced by not found
+/wiki/PROIV
+<table> not found
+/wiki/Promela
+<table> not found
+/wiki/PROSE_modeling_language
+<table> not found
+/wiki/Protel
+<table> not found
+/wiki/Pro*C
+<table> not found
+/wiki/Pure_Data
+Influeced, Influenced by not found
+/wiki/QtScript
+<table> not found
+/wiki/Quantum_programming
+<table> not found
+/wiki/R%2B%2B
+<table> not found
+/wiki/Rapira
+<table> not found
+/wiki/Ratfiv
+<table> not found
+/wiki/Core_War
+Influeced, Influenced by not found
+/wiki/REFAL
+Influeced, Influenced by not found
+/wiki/Rlab
+<table> not found
+/wiki/ROOP_(programming_language)
+<table> not found
+/wiki/Robot_Battle#Robot_scripting_language
+Influeced, Influenced by not found
+/wiki/RuneScript
+Influeced, Influenced by not found
+/wiki/S2_(programming_language)
+Influeced, Influenced by not found
+/wiki/S-Lang_(programming_language)
+<table> not found
+/wiki/S-PLUS
+Influeced, Influenced by not found
+/wiki/SA-C_(programming_language)
+<table> not found
+/wiki/SabreTalk
+<table> not found
+/wiki/SAIL_(programming_language)
+<table> not found
+/wiki/SAM76
+<table> not found
+/wiki/SAS_System
+Influeced, Influenced by not found
+/wiki/Sawzall_(programming_language)
+<table> not found
+/wiki/Scilab
+Influeced, Influenced by not found
+/wiki/SenseTalk
+Influeced, Influenced by not found
+/wiki/SequenceL
+Influeced, Influenced by not found
+/wiki/Superbase_database#History
+Influeced, Influenced by not found
+/wiki/SIGNAL_(programming_language)
+<table> not found
+/wiki/SiMPLE
+<table> not found
+/wiki/SIMSCRIPT
+<table> not found
+/wiki/Simulink
+Influeced, Influenced by not found
+/wiki/Singularity_(operating_system)
+Influeced, Influenced by not found
+/wiki/SLIP_(programming_language)
+<table> not found
+/wiki/SMALL
+<table> not found
+/wiki/SPITBOL_compiler
+<table> not found
+/wiki/Snowball_programming_language
+<table> not found
+/wiki/Secure_Operations_Language
+<table> not found
+/wiki/SOPHAEROS
+<table> not found
+/wiki/Speakeasy_(computational_environment)
+Influeced, Influenced by not found
+/wiki/Parallax_Propeller
+<table> not found
+/wiki/IBM_1401_Symbolic_Programming_System
+<table> not found
+/wiki/SQR
+<table> not found
+/wiki/SR_(programming_language)
+<table> not found
+/wiki/S/SL_programming_language
+<table> not found
+/wiki/Strand_(programming_language)
+<table> not found
+/wiki/Stata
+Influeced, Influenced by not found
+/wiki/Stateflow
+Influeced, Influenced by not found
+/wiki/Subtext_(programming_language)
+<table> not found
+/wiki/Superbase_database
+Influeced, Influenced by not found
+/wiki/SuperCollider
+Influeced, Influenced by not found
+/wiki/SuperTalk
+<table> not found
+/wiki/SYMPL
+<table> not found
+/wiki/TACL
+<table> not found
+/wiki/TACPOL_(programming_language)
+<table> not found
+/wiki/TADS
+Influeced, Influenced by not found
+/wiki/Transaction_Application_Language
+<table> not found
+/wiki/Text_Editor_and_Corrector
+Influeced, Influenced by not found
+/wiki/TeX
+Influeced, Influenced by not found
+/wiki/Text_Executive_Programming_Language
+<table> not found
+/wiki/Tensilica_Instruction_Extension
+<table> not found
+/wiki/TMG_(language)
+<table> not found
+/wiki/Tom_(pattern_matching_language)
+Influeced, Influenced by not found
+/wiki/Toi_(programming_language)
+<table> not found
+/wiki/Text_Processing_Utility
+<table> not found
+/wiki/TRAC_(programming_language)
+<table> not found
+/wiki/Transact-SQL
+<table> not found
+/wiki/Transcript_(programming_language)
+Influeced, Influenced by not found
+/wiki/TTCN
+<table> not found
+/wiki/TXL_(programming_language)
+Influeced, Influenced by not found
+/wiki/Tynker
+Influeced, Influenced by not found
+/wiki/Ubercode
+<table> not found
+/wiki/UCSD_Pascal
+Influeced, Influenced by not found
+/wiki/Uniface_(programming_language)
+Influeced, Influenced by not found
+/wiki/UNITY_(programming_language)
+<table> not found
+/wiki/Unix_shell
+<table> not found
+/wiki/UnrealScript
+Influeced, Influenced by not found
+/wiki/Vim_(text_editor)#Vim_script
+Influeced, Influenced by not found
+/wiki/Ethereum#Smart_contracts
+Influeced, Influenced by not found
+/wiki/Visual_DataFlex
+<table> not found
+/wiki/Visual_DialogScript
+<table> not found
+/wiki/Visual_FoxPro
+Influeced, Influenced by not found
+/wiki/Visual_J
+<table> not found
+/wiki/Visual_Objects
+<table> not found
+/wiki/Visual_Prolog
+Influeced, Influenced by not found
+/wiki/WATFIV_(programming_language)
+<table> not found
+/wiki/WebDNA
+<table> not found
+/wiki/Winbatch
+Influeced, Influenced by not found
+/wiki/Wyvern_(programming_language)
+<table> not found
+/wiki/X%2B%2B
+Influeced, Influenced by not found
+/wiki/XBase
+<table> not found
+/wiki/XBase%2B%2B
+<table> not found
+/wiki/XBL
+<table> not found
+/wiki/XCore_XS1
+Influeced, Influenced by not found
+/wiki/XHarbour
+<table> not found
+/wiki/Xojo
+Influeced, Influenced by not found
+/wiki/XOD_(programming_language)
+Influeced, Influenced by not found
+/wiki/XPL
+<table> not found
+/wiki/XPL0
+<table> not found
+/wiki/XSharp
+<table> not found
+/wiki/Yorick_(programming_language)
+Influeced, Influenced by not found
+/wiki/YQL_(programming_language)
+<table> not found
+/wiki/YUI_Library
+Influeced, Influenced by not found
+/wiki/Z_notation
+<table> not found
+/wiki/Zeno_(programming_language)
+<table> not found
+/wiki/ZOPL
+<table> not found
+/wiki/Z_shell
+Influeced, Influenced by not found
+/wiki/Z%2B%2B
+<table> not found

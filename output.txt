@@ -1,0 +1,783 @@
+/wiki/A%2B_(programming_language)
+Influenced by|APL
+Influenced|K
+/wiki/ABAP
+Influenced by|Objective-C|citation needed|COBOL|citation needed|SQL|citation needed
+/wiki/ABC_(programming_language)
+Influenced by|SETL|ALGOL 68
+Influenced|Python
+/wiki/ActionScript
+Influenced by|JavaScript|Java
+Influenced|Haxe
+/wiki/Ada_(programming_language)
+Influenced by|ALGOL 68|Pascal|C++|Smalltalk|Modula-2|Java|Eiffel
+Influenced|C++|Chapel|Eiffel|Java|Nim|ParaSail|PL/SQL|PL/pgSQL|Ruby|Seed7|Sparkel|SQL/PSM|VHDL
+/wiki/Agda_(theorem_prover)
+Influenced by|Coq|Epigram|Haskell
+Influenced|Idris
+/wiki/Aldor
+Influenced by|A#|Pascal|Haskell
+/wiki/Alef_(programming_language)
+Influenced by|C|Newsqueak
+Influenced|Limbo|Rust|Go
+/wiki/ALGOL_58
+Influenced by|FORTRAN|Plankalkül
+Influenced|Algol-like
+/wiki/ALGOL_60
+Influenced by|ALGOL 58
+Influenced|Simula|CPL|Pascal|Ada|C
+/wiki/ALGOL_68
+Influenced by|ALGOL 60|ALGOL Y
+Influenced|C|C++|Bourne shell|KornShell|Bash|Steelman|Ada|Python|Seed7|Mary|S3
+/wiki/ALGOL_W
+Influenced by|ALGOL 60
+Influenced|Pascal|Modula-2
+/wiki/Alice_(programming_language)
+Influenced by|ML|Oz
+/wiki/AmbientTalk
+Influenced by|Smalltalk|Self|Scheme|E|ABCL
+Influenced|ECMAScript Harmony
+/wiki/AMOS_(programming_language)
+Influenced by|STOS BASIC
+/wiki/AMPL
+Influenced by|AWK|C
+Influenced|Coopr
+/wiki/AngelScript
+Influenced by|C++
+/wiki/APL_(programming_language)
+Influenced by|Mathematical notation
+Influenced|A and A+|FP|J|K|LYaPAS|MATLAB|Nial|PPL|S|Speakeasy|Wolfram Language
+/wiki/AppleScript
+Influenced by|Natural language|HyperTalk
+/wiki/Arc_(programming_language)
+Influenced by|Lisp|Scheme
+/wiki/AutoLISP
+Influenced by|Lisp
+/wiki/AWK
+Influenced by|C|SNOBOL|Bourne shell
+Influenced|Tcl|AMPL|Perl|Korn Shell|Lua
+/wiki/B_(programming_language)
+Influenced by|BCPL|PL/I
+Influenced|C
+/wiki/Babbage_(programming_language)
+Influenced by|BCPL
+/wiki/Ballerina_(programming_language)
+Influenced by|Java|Javascript|Go|Rust|C#
+/wiki/BASIC
+Influenced by|ALGOL 60|FORTRAN II|JOSS
+Influenced|COMAL|Visual Basic|Visual Basic .NET|GRASS|AutoIt|AutoHotkey
+/wiki/BCPL
+Influenced by|CPL
+Influenced|B|C|Go
+/wiki/BeanShell
+Influenced by|Java|JavaScript|Perl
+/wiki/BETA_(programming_language)
+Influenced by|Simula
+/wiki/BLISS_(programming_language)
+Influenced by|ALGOL
+/wiki/Boo_(programming_language)
+Influenced by|C#|Python
+Influenced|Genie|Vala
+/wiki/Boomerang_(programming_language)
+Influenced by|OCaml
+Influenced|XSLT
+/wiki/C_(programming_language)
+Influenced by|B|BCPL|CPL|ALGOL 68|Assembly|PL/I|FORTRAN
+Influenced|Numerous|AMPL|AWK|csh|C++|C--|C#|Objective-C|D|Go|Java|JavaScript|Julia|Limbo|LPC|Perl|PHP|Pike|Processing|Python|Rust|Seed7|Vala|Verilog|Nim
+/wiki/C--
+Influenced by|C
+/wiki/C%2B%2B
+Influenced by|Ada|ALGOL 68|C|CLU|ML|Simula
+Influenced|Ada 95|C#|C99|Chapel|Clojure|D|Java|Lua|Nim|citation needed|Perl|PHP|Python|Rust|Seed7
+/wiki/C*
+Influenced by|ANSI C|*Lisp
+Influenced|Dataparallel-C
+/wiki/C_Sharp_(programming_language)
+Influenced by|C++|Cω|Eiffel|F#|Haskell|Icon|J#|J++|Java|ML|Modula-3|Object Pascal|Rust|VB
+Influenced|Chapel|Clojure|Crystal|D|J#|Dart|F#|Hack|Java|Kotlin|Nemerle|Oxygene|Rust|Swift|Vala|TypeScript
+/wiki/Cach%C3%A9_ObjectScript
+Influenced by|MUMPS
+/wiki/Caml
+Influenced by|ML
+Influenced|F#
+/wiki/Ceylon_(programming_language)
+Influenced by|Java|Scala|Smalltalk|ML|Lisp
+/wiki/Chapel_(programming_language)
+Influenced by|Ada|C#|C|Fortran|C++|Java|HPF|ZPL|Cray MTA|XMT
+/wiki/Charm_(language)
+Influenced by|RTL/2|C|Pascal
+/wiki/CHILL
+Influenced by|COBOL|PL/1
+/wiki/Chomski
+Influenced by|Sed|Awk
+/wiki/Cilk
+Influenced by|C
+Influenced|OpenMP
+/wiki/Citrine_(programming_language)
+Influenced by|Smalltalk|Self
+/wiki/AS/400_Control_Language
+Influenced by|Job Control Language|PL/I
+Influenced|Windows PowerShell
+/wiki/Claire_(programming_language)
+Influenced by|Smalltalk|SETL|OPS5|Lisp|ML|C
+/wiki/Clean_(programming_language)
+Influenced by|Miranda|Haskell
+Influenced|Haskell|Idris
+/wiki/Clojure
+Influenced by|C#|C++|Common Lisp|Erlang|Haskell|Java|Mathematica|ML|Prolog|Racket|Ruby|Scheme
+Influenced|Elixir|Hy|LFE
+/wiki/CLU_(programming_language)
+Influenced by|ALGOL 60|Lisp|Simula
+Influenced|Ada|Argus|C++|Lua|Python|Ruby|Sather|Swift
+/wiki/CMS-2_(programming_language)
+Influenced by|Fortran|JOVIAL|PL/I
+/wiki/COBOL
+Influenced by|AIMACO|C++|COMTRAN|Eiffel|FACT|FLOW-MATIC|Smalltalk
+Influenced|CobolScript|EGL|PL/I|PL/B|citation needed
+/wiki/Cobra_(programming_language)
+Influenced by|Python|Eiffel|C#|Objective-C
+/wiki/CoffeeScript
+Influenced by|Haskell|JavaScript|Perl|citation needed|Python|Ruby|YAML
+Influenced|LiveScript
+/wiki/COMAL
+Influenced by|BASIC|Pascal
+/wiki/Combined_Programming_Language
+Influenced by|ALGOL 60
+Influenced|BCPL|POP-2
+/wiki/COMIT
+Influenced|SNOBOL
+/wiki/Common_Lisp
+Influenced by|Lisp|Lisp Machine Lisp|Maclisp|Scheme|Interlisp
+Influenced|Clojure|Dylan|Emacs Lisp|EuLisp|ISLISP|*Lisp|AutoLisp|Julia|Moose|R|SKILL|SubL
+/wiki/Component_Pascal
+Influenced by|Oberon-2
+/wiki/Constraint_Handling_Rules
+Influenced by|Prolog
+/wiki/COMTRAN
+Influenced by|FLOW-MATIC
+Influenced|COBOL
+/wiki/Cool_(programming_language)
+Influenced by|Java|ML|Pascal|Sather
+/wiki/Coral_66
+Influenced by|ALGOL|JOVIAL
+/wiki/CorVision
+Influenced by|Inform
+/wiki/COWSEL
+Influenced by|CPL|Lisp
+Influenced|POP-2
+/wiki/CPL_(programming_language)
+Influenced by|ALGOL 60
+Influenced|BCPL|POP-2
+/wiki/Crystal_(programming_language)
+Influenced by|Ruby|C|Rust|Go|C#|Python
+/wiki/Cuneiform_(programming_language)
+Influenced by|Swift
+/wiki/Curl_(programming_language)
+Influenced by|HTML|JavaScript|Lisp
+/wiki/Curry_(programming_language)
+Influenced by|Haskell
+/wiki/Cyclone_(programming_language)
+Influenced by|C
+Influenced|Rust
+/wiki/D_(programming_language)
+Influenced by|C|C++|C#|Eiffel|Java|Python
+Influenced|Genie|MiniD|Qore|Swift|Vala
+/wiki/Dart_(programming_language)
+Influenced by|C#|Erlang|JavaScript|Smalltalk|Strongtalk
+/wiki/Darwin_(programming_language)
+Influenced by|Maple
+/wiki/DBase
+Influenced|Clipper|Harbour|FoxBASE+, FoxPro, Visual FoxPro|VP-Info
+/wiki/DIGITAL_Command_Language
+Influenced|Windows PowerShell
+/wiki/DIBOL
+Influenced by|BASIC|Fortran|COBOL
+/wiki/Draco_(programming_language)
+Influenced by|ALGOL 68|Pascal|C
+/wiki/DRAKON
+Influenced by|
+Influenced|
+/wiki/Dylan_(programming_language)
+Influenced by|CLOS|ALGOL|Scheme|EuLisp
+Influenced|Lasso|Python|Ruby
+/wiki/E_(programming_language)
+Influenced by|Joule|Java
+Influenced|
+/wiki/Ease_(programming_language)
+Influenced by|occam
+/wiki/PL/I
+Influenced by|COBOL|Fortran|ALGOL
+Influenced|CMS-2|SP/k|B|REXX|AS/400 Control Language
+/wiki/EC_(programming_language)
+Influenced by|C|C++|Python
+/wiki/ECMAScript
+Influenced by|Self|HyperTalk|AWK|C|CoffeeScript|Perl|Python|Java|Scheme
+/wiki/Eiffel_(programming_language)
+Influenced by|Ada|Simula|Z
+Influenced|Ada 2012|C#|D|Java|Racket|Ruby|Sather|Scala
+/wiki/ELAN_(programming_language)
+Influenced by|ALGOL 68
+Influenced|
+/wiki/Elixir_(programming_language)
+Influenced by|Clojure|Erlang|Ruby
+Influenced|LFE
+/wiki/Elm_(programming_language)
+Influenced by|Haskell|Standard ML|OCaml|F#
+Influenced|Redux|Vue.js
+/wiki/Emacs_Lisp
+Influenced by|Common Lisp|Maclisp
+/wiki/Emerald_(programming_language)
+Influenced by|Pascal|Simula|Smalltalk
+Influenced|Java|Singularity
+/wiki/Epigram_(programming_language)
+Influenced by|ALF
+Influenced|Agda|Idris
+/wiki/Erlang_(programming_language)
+Influenced by|Lisp|PLEX|Prolog|Smalltalk
+Influenced|Akka|Clojure|citation needed|Dart|Elixir|F#|Opa|Oz|Reia|Rust|Scala
+/wiki/Es_(Unix_shell)
+Influenced by|Bourne shell
+Influenced|es|Inferno
+/wiki/Escher_(programming_language)
+Influenced by|simple theory of types
+/wiki/Etoys_(programming_language)
+Influenced by|Logo|Smalltalk|HyperCard|StarLogo|AgentSheets
+Influenced|Croquet|Scratch
+/wiki/Euclid_(programming_language)
+Influenced by|Pascal
+Influenced|Mesa|Concurrent Euclid|Turing
+/wiki/Euler_(programming_language)
+Influenced by|ALGOL 60
+/wiki/Euphoria_(programming_language)
+Influenced|
+/wiki/Ezhil_(programming_language)
+Influenced by|Logo|BASIC|Python
+/wiki/F_(programming_language)
+Influenced by|Fortran 95
+/wiki/F_Sharp_(programming_language)
+Influenced by|C#|Erlang|Haskell|ML|OCaml|Python|Scala
+Influenced|C#|Elm|F*|LiveScript
+/wiki/F*_(programming_language)
+Influenced by|F#|OCaml|Standard ML|Dafny
+/wiki/Factor_(programming_language)
+Influenced by|Joy|Forth|Lisp|Self
+/wiki/Fantom_(programming_language)
+Influenced by|C#|Java|Scala|Ruby|Erlang
+/wiki/FFP_(programming_language)
+Influenced by|APL
+Influenced|FL|Haskell|J
+/wiki/FL_(programming_language)
+Influenced by|FP
+Influenced|J
+/wiki/FLOW-MATIC
+Influenced by|ARITH-MATIC
+Influenced|MATH-MATIC|AIMACO|COBOL
+/wiki/FOCAL_(programming_language)
+Influenced by|JOSS
+Influenced|BASIC-PLUS
+/wiki/Forth_(programming_language)
+Influenced by|Burroughs large systems|Lisp|APL
+Influenced|Factor|RPL|REBOL
+/wiki/Fortran
+Influenced by|Speedcoding
+Influenced|ALGOL 58|BASIC|C|Chapel|CMS-2|Fortress|PL/I|PACT I|MUMPS|IDL|Ratfor
+/wiki/Fortress_(programming_language)
+Influenced by|Fortran|Scala|Haskell
+/wiki/FP_(programming_language)
+Influenced by|APL
+Influenced|FL|Haskell|J
+/wiki/Franz_Lisp
+Influenced by|Lisp|Maclisp|Common Lisp
+Influenced|Allegro Common Lisp
+/wiki/F-Script_(programming_language)
+Influenced by|Smalltalk|APL
+/wiki/Genie_(programming_language)
+Influenced by|Python|Boo|D|Object Pascal
+/wiki/GNU_E
+Influenced by|C++
+/wiki/Go_(programming_language)
+Influenced by|Alef|APL|BCPL|C|CSP|Limbo|Modula|Newsqueak|Oberon|occam|Pascal|Smalltalk
+Influenced|Crystal
+/wiki/Go!_(programming_language)
+Influenced by|Prolog
+/wiki/Game_Oriented_Assembly_Lisp
+Influenced by|Lisp|Scheme
+/wiki/MAD_(programming_language)
+Influenced by|IAL|ALGOL 58
+/wiki/Gosu_(programming_language)
+Influenced by|Java|C#
+Influenced|Kotlin
+/wiki/Groovy_(programming_language)
+Influenced by|Java|Python|Ruby|Smalltalk
+Influenced|Kotlin
+/wiki/Hack_(programming_language)
+Influenced by|PHP|OCaml|Java|C#|Scala|Haskell
+/wiki/Harbour_(software)
+Influenced by|
+Influenced|xHarbour
+/wiki/Hartmann_pipeline
+Influenced by|Pipeline (Unix)
+/wiki/Haskell_(programming_language)
+Influenced by|Clean|FP|Gofer|Hope|Id|ISWIM|KRC|Lisp|Miranda|ML|Standard ML|Orwell|SASL|Scheme|SISAL
+Influenced|Agda|Bluespec|C++11|Concepts|C#|LINQ|citation needed|Cayenne|Clean|Clojure|CoffeeScript|Curry|Elm|Epigram|citation needed|Escher|F#|Hack|Idris|Isabelle|Java|Generics|LiveScript|Mercury|Ωmega|citation needed|Perl 6|PureScript|Python|Rust|Scala|Swift|Visual Basic 9.0
+/wiki/Haxe
+Influenced by|ActionScript|OCaml|Java
+/wiki/Hop_(software)
+Influenced by|Scheme
+/wiki/HyperTalk
+Influenced by|Natural language|Pascal
+Influenced|ActionScript|AppleScript|ECMAScript|JavaScript|Lingo|LiveCode|SenseTalk|SuperTalk
+/wiki/Io_(programming_language)
+Influenced by|Smalltalk|NewtonScript|Self|Lua|Lisp|Python|Act1
+Influenced|Ioke
+/wiki/Icon_(programming_language)
+Influenced by|SNOBOL|ALGOL
+Influenced|Unicon|Python
+/wiki/IBM_RPG
+Influenced by|9PAC|FARGO
+Influenced|RPG II
+/wiki/Idris_(programming_language)
+Influenced by|Agda|Clean|Coq|Epigram|Haskell|ML|Rust
+/wiki/J_(programming_language)
+Influenced by|APL|FP|FL
+Influenced|NumPy|SuperCollider
+/wiki/J_Sharp
+Influenced by|Java|Visual J++
+/wiki/Java_(programming_language)
+Influenced by|Ada 83|C++|C#|Eiffel|Mesa|Modula-3|Oberon|Objective-C|UCSD Pascal|Object Pascal
+Influenced|Ada 2005|BeanShell|C#|Chapel|Clojure|ECMAScript|Fantom|Gambas|Groovy|Hack|Haxe|J#|Kotlin|PHP|Python|Scala|Seed7|Vala
+/wiki/JavaScript
+Influenced by|AWK|C|HyperTalk|Java|Lua|Perl|Python|Scheme|Self
+Influenced|ActionScript|AtScript|CoffeeScript|Dart|JScript .NET|LiveScript|Objective-J|Opa|Perl 6|QML|TypeScript
+/wiki/Join_Java
+Influenced by|Java
+/wiki/JOSS
+Influenced|TELCOMP|CAL|FOCAL|MUMPS
+/wiki/Joule_(programming_language)
+Influenced by|Concurrent Logic Programming|Actors
+Influenced|E
+/wiki/JOVIAL
+Influenced by|ALGOL|SAGE
+Influenced|CMS-2|Coral 66|SYMPL
+/wiki/Joy_(programming_language)
+Influenced by|Scheme|FP|Forth
+Influenced|Factor
+/wiki/JScript_.NET
+Influenced by|JScript|ECMAScript
+/wiki/Julia_(programming_language)
+Influenced by|C|Lisp|Lua|Mathematica|Wolfram Language|MATLAB|Perl|Python|R|Ruby|Scheme
+/wiki/K_(programming_language)
+Influenced by|A+|APL|Scheme
+Influenced|Q
+/wiki/Karel_(programming_language)
+Influenced by|Pascal
+Influenced|AgentSheets
+/wiki/Kojo_(programming_language)
+Influenced by|Logo|Processing|The Geometer's Sketchpad
+/wiki/Kotlin_(programming_language)
+Influenced by|C#|Gosu|Groovy|Java|ML|Python|Scala
+/wiki/Kent_Recursive_Calculator
+Influenced by|SASL
+Influenced|Miranda
+/wiki/KRL_(programming_language)
+Influenced|
+/wiki/KUKA_Robot_Language
+Influenced by|Pascal
+/wiki/Lasso_(programming_language)
+Influenced by|Dylan|Smalltalk|Scala
+/wiki/Limbo_(programming_language)
+Influenced by|C|Pascal|CSP|Alef|Newsqueak
+Influenced|Stackless Python|Go|Rust
+/wiki/LINQ
+Influenced by|SQL|Haskell
+/wiki/Lisp_(programming_language)
+Influenced by|IPL
+Influenced|CLIPS|CLU|COWSEL|Dylan|Elixir|Forth|Haskell|Io|Ioke|JavaScript|Julia|Logo|Lua|ML|Nim|Nu|OPS5|Perl|POP-2|11|Python|R|Rebol|Ruby|Scala|Swift|Smalltalk|Tcl|Wolfram Language
+/wiki/Little_b_(programming_language)
+Influenced by|Lisp
+/wiki/Logo_(programming_language)
+Influenced by|Lisp
+Influenced|AgentSheets|NetLogo|Smalltalk|Etoys|Scratch|KTurtle|REBOL
+/wiki/Logtalk
+Influenced by|Prolog|Smalltalk|Objective-C
+/wiki/LPC_(programming_language)
+Influenced by|C|C++|Lisp|Perl
+Influenced|Pike
+/wiki/LiveScript
+Influenced by|JavaScript|Haskell|CoffeeScript|F#
+/wiki/Lua_(programming_language)
+Influenced by|C++|CLU|Modula|Scheme|SNOBOL
+Influenced|GameMonkey|Io|JavaScript|Julia|MiniD|Red|Ruby|Squirrel|C--
+/wiki/Lucid_(programming_language)
+Influenced by|ISWIM
+Influenced|SISAL|PureData|Lustre
+/wiki/LYaPAS
+Influenced by|APL
+/wiki/Mary_(programming_language)
+Influenced by|ALGOL 68
+/wiki/MATH-MATIC
+Influenced by|FLOW-MATIC
+Influenced|
+/wiki/MDL_(programming_language)
+Influenced by|Lisp
+Influenced|Planner|Scheme|Common Lisp|Java|Prolog|Smalltalk|actor model|interactive fiction
+/wiki/Mercury_(programming_language)
+Influenced by|Prolog|Hope|Haskell
+/wiki/Mesa_(programming_language)
+Influenced by|ALGOL
+Influenced|Java|Modula-2|Cedar
+/wiki/Mirah_(programming_language)
+Influenced by|Ruby|Java|Boo
+/wiki/Miranda_(programming_language)
+Influenced by|KRC|ML|SASL|Hope
+Influenced|Clean|Haskell
+/wiki/MIVA_Script
+Influenced by|C|Perl|Java|C++
+/wiki/ML_(programming_language)
+Influenced by|ISWIM
+Influenced|Clojure|Coq|Cyclone|C++|Elm|F#|F*|Haskell|Idris|Miranda|Nemerle|OCaml|Opa|Erlang|Rust|Scala
+/wiki/Modula
+Influenced by|Pascal
+Influenced|Alma-0|Go|Modula-2
+/wiki/Modula-2
+Influenced by|Modula|Mesa|Pascal|Algol-W|Euclid
+Influenced|Modula-3|Oberon|Ada|Fortran 90|Lua|Seed7|Zonnon
+/wiki/Modula-3
+Influenced by|Modula-2+|Modula-2|Pascal|ALGOL|Oberon|Mesa|Euclid
+Influenced|Java|Python|Caml|C#|Nim
+/wiki/MOO_(programming_language)
+Influenced by|Algol|Lisp|Scheme|Smalltalk|Self|C|Ada|MUF
+Influenced|
+/wiki/MUMPS
+Influenced by|JOSS
+Influenced|PSL|Caché ObjectScript
+/wiki/Nemerle
+Influenced by|C#|ML|Lisp
+/wiki/NetLogo
+Influenced by|Logo|StarLogo
+/wiki/NetRexx
+Influenced by|PL/I|REXX|ooREXX|Java
+/wiki/NewLISP
+Influenced by|C|Common Lisp|Perl|Scheme
+/wiki/Newspeak_(programming_language)
+Influenced by|Smalltalk|Self|BETA|Nineteen Eighty-Four
+/wiki/NewtonScript
+Influenced by|Self|Dylan
+Influenced|Io
+/wiki/Nial
+Influenced by|APL|Lisp
+/wiki/Nickle_(programming_language)
+Influenced by|C|Lisp|Modula-3|ML|Java
+/wiki/Nim_(programming_language)
+Influenced by|Ada|Modula-3|Lisp|C++|Object Pascal|Python|Oberon
+/wiki/Nu_(programming_language)
+Influenced by|Lisp|Objective-C|Ruby
+/wiki/NWScript
+Influenced by|C|Java
+/wiki/Oberon_(programming_language)
+Influenced by|Modula-2
+Influenced|Oberon-2|Zonnon|Go|Nim|Active Oberon|Component Pascal
+/wiki/Object_REXX
+Influenced by|Rexx|Smalltalk
+Influenced|NetRexx
+/wiki/Object_Pascal
+Influenced by|Pascal|Simula|Smalltalk
+Influenced|C#|Genie|Java|Nim|C/AL
+/wiki/Objective-C
+Influenced by|C|Smalltalk
+Influenced|Groovy|Java|Nu|Objective-J|TOM|Swift
+/wiki/Objective-J
+Influenced by|Objective-C|JavaScript
+/wiki/Obliq
+Influenced by|Modula-3|Self|Oberon
+/wiki/OCaml
+Influenced by|Caml|Standard ML|Pascal
+Influenced|ATS|Coq|Elm|F#|F*|Haxe|Opa|Reason|Rust|Scala
+/wiki/Occam_(programming_language)
+Influenced by|Communicating sequential processes
+Influenced|Ease|Go|Python
+/wiki/Occam-%CF%80
+Influenced by|occam
+/wiki/Opa_(programming_language)
+Influenced by|OCaml|Erlang|JavaScript
+/wiki/OptimJ
+Influenced by|Java
+/wiki/Orc_(programming_language)
+Influenced by|Haskell|ML|Oz|Smalltalk|Pict
+/wiki/Orwell_(programming_language)
+Influenced by|Miranda
+Influenced|Haskell
+/wiki/Oxygene_(programming_language)
+Influenced by|Object Pascal|C#
+/wiki/Oz_(programming_language)
+Influenced by|Erlang|Lisp|Prolog
+Influenced|Alice|Scala
+/wiki/P%E2%80%B2%E2%80%B2
+Influenced|Brainfuck
+/wiki/ParaSail_(programming_language)
+Influenced by|Modula|Ada|Pascal|ML
+/wiki/Pascal_(programming_language)
+Influenced by|ALGOL W
+Influenced|Ada|Component Pascal|Go|Java|Modula|-2|-3|Oberon|-2|Object Pascal|Oxygene|Seed7|VHDL|Structured text
+/wiki/Pascal_Script
+Influenced by|Pascal|Object Pascal
+/wiki/PCASTL
+Influenced by|C|R
+/wiki/Perl
+Influenced by|AWK|BASIC|C|C++|Lisp|sed|Unix shell
+Influenced|CoffeeScript|citation needed|Groovy|citation needed|JavaScript|Julia|LPC|Perl 6|PHP|Python|Ruby|Windows PowerShell
+/wiki/Perl_Data_Language
+Influenced by|APL|IDL|Perl
+/wiki/Perl_6
+Influenced by|Haskell|JavaScript|Perl|Ruby|Smalltalk
+Influenced|Perl|Haskell
+/wiki/Pharo
+Influenced by|Smalltalk|Squeak
+/wiki/PHP
+Influenced by|Perl|C|C++|Java|Tcl|JavaScript|Hack
+Influenced|Hack
+/wiki/Pico_(programming_language)
+Influenced by|Scheme
+/wiki/Pict_(programming_language)
+Influenced by|ML
+Influenced|Orc
+/wiki/Pike_(programming_language)
+Influenced by|LPC|C|C++
+/wiki/Pizza_(programming_language)
+Influenced by|Java
+Influenced|Generic Java|Scala
+/wiki/Programming_Language_for_Business
+Influenced by|COBOL
+/wiki/PL/C
+Influenced by|PL/I
+/wiki/PL/M
+Influenced by|ALGOL|PL/I|XPL
+/wiki/Plankalk%C3%BCl
+Influenced by|Begriffsschrift
+Influenced|Superplan|Heinz Rutishauser|ALGOL 58
+/wiki/Plus_(programming_language)
+Influenced by|
+/wiki/PostScript
+Influenced by|Interpress|Lisp
+Influenced|PDF
+/wiki/PowerShell
+Influenced by|Python|Ksh|Perl|C#|CL|DCL|SQL|Tcl|Tk|Chef|Puppet
+/wiki/Prograph
+Influenced by|functional programming|dataflow|diagrams
+/wiki/Prolog
+Influenced by|Planner
+Influenced|CHR|Clojure|Datalog|Erlang|KL0|KL1|Mercury|Oz|Strand|Visual Prolog|XSB
+/wiki/PROMAL
+Influenced by|
+/wiki/ProvideX
+Influenced by|Business Basic
+/wiki/Pure_(programming_language)
+Influenced by|Haskell|Lisp|Alice|MATLAB
+/wiki/Python_(programming_language)
+Influenced by|ABC|ALGOL 68|APL|C|C++|CLU|Dylan|Haskell|Icon|Java|Lisp|Modula-3|Perl|Standard ML
+Influenced|Apache Groovy|Boo|Cobra|CoffeeScript|D|F#|Genie|Go|JavaScript|Julia|Nim|Ruby|Swift
+/wiki/Q_(programming_language_from_Kx_Systems)
+Influenced by|A+|APL|Scheme|K
+/wiki/Q_Sharp
+Influenced by|C#|F#
+/wiki/Qalb_(programming_language)
+Influenced by|Scheme
+/wiki/QuakeC
+Influenced by|C
+/wiki/Qbasic
+Influenced by|QuickBASIC|GW-BASIC
+Influenced|FreeBASIC|QB64|Small Basic
+/wiki/R_(programming_language)
+Influenced by|Common Lisp|S|Scheme|XLispStat
+Influenced|Julia
+/wiki/Racket_(programming_language)
+Influenced by|Eiffel|Scheme
+Influenced|Clojure|Rust|Scheme
+/wiki/RAPID
+Influenced by|C
+/wiki/Ratfor
+Influenced by|Fortran|C
+/wiki/Rc
+Influenced by|Bourne shell
+Influenced|es|Inferno
+/wiki/Reason_(programming_language)
+Influenced by|OCaml
+/wiki/REBOL
+Influenced by|Self|Forth|Lisp|Logo
+Influenced|JSON|Red
+/wiki/Red_(programming_language)
+Influenced by|Rebol|Scala|Lua
+/wiki/REXX
+Influenced by|PL/I|ALGOL|EXEC|EXEC 2
+Influenced|NetRexx|Object REXX
+/wiki/RPL_(programming_language)
+Influenced by|RPN|Forth|Lisp
+/wiki/RTL/2
+Influenced by|Algol 68
+/wiki/Ruby_(programming_language)
+Influenced by|Ada|C++|CLU|Dylan|Eiffel|Lisp|Lua|Perl|Python|Smalltalk|Basic
+Influenced|Clojure|CoffeeScript|Crystal|D|Elixir|Groovy|Ioke|Julia|Mirah|Nu|Swift
+/wiki/Rust_(programming_language)
+Influenced by|Alef|C#|C++|Cyclone|Erlang|Haskell|Limbo|Newsqueak|OCaml|Scheme|Standard ML|Swift
+Influenced|Crystal|Elm|Idris|Spark|Swift
+/wiki/S_(programming_language)
+Influenced by|C|APL|PPL|Fortran
+/wiki/S3_(programming_language)
+Influenced by|ALGOL 68
+/wiki/SASL_(programming_language)
+Influenced by|ISWIM
+Influenced|KRC|Miranda|Haskell
+/wiki/Sather
+Influenced by|Eiffel|CLU|Common Lisp|Scheme
+Influenced|Cool
+/wiki/Scala_(programming_language)
+Influenced by|Common Lisp|Eiffel|Erlang|Haskell|Java|OCaml|Oz|Pizza|Scheme|Smalltalk|Standard ML
+Influenced|Ceylon|Fantom|F#|Kotlin|Lasso|Red
+/wiki/Scheme_(programming_language)
+Influenced by|ALGOL|Lisp|MDL
+Influenced|Clojure|Common Lisp|Dylan|EuLisp|Haskell|Hop|JavaScript|Julia|Lua|R|Ruby|Rust|S|Scala
+/wiki/Scratch_(programming_language)
+Influenced by|Logo|Smalltalk|HyperCard|StarLogo|AgentSheets|AgentCubes|Etoys
+Influenced|ScratchJr|Snap!
+/wiki/Script.NET
+Influenced by|JavaScript
+/wiki/Sed
+Influenced by|ed
+Influenced|Chomski|Perl|AWK
+/wiki/Seed7
+Influenced by|Pascal|Modula-2|Ada|ALGOL 68|C|C++|Java
+/wiki/Self_(programming_language)
+Influenced by|Smalltalk
+Influenced|NewtonScript|JavaScript|Io|Agora|Squeak|Lua|Factor|REBOL
+/wiki/SETL
+Influenced by|ALGOL 60
+Influenced|SETL2|ISETL|ABC
+/wiki/Simula
+Influenced by|ALGOL 60|Simscript
+Influenced|Object-oriented programming languages
+/wiki/SISAL
+Influenced by|Pascal|C|Fortran
+Influenced|Haskell|citation needed|SAC
+/wiki/Smalltalk
+Influenced by|Lisp|Simula|Euler|IMP|Planner|Logo|Sketchpad|ARPAnet|Burroughs B5000|cell (biology)
+Influenced|AppleScript|Common Lisp Object System|Dart|Dylan|Erlang|Etoys|Go|Groovy|Io|Ioke|Java|Lasso|Logtalk|Newspeak|NewtonScript|Object REXX|Objective-C|PHP|Perl 6|Python|Ruby|Scala|Scratch|Self
+/wiki/Standard_ML
+Influenced by|ML|Hope|Pascal
+Influenced|Elm|F#|OCaml|Python|Rust|Scala
+/wiki/Strongtalk
+Influenced by|Smalltalk|Self
+Influenced|Java|HotSpot
+/wiki/Snap!_(programming_language)
+Influenced by|Scratch|Scheme|Logo|Smalltalk
+Influenced|
+/wiki/SNOBOL
+Influenced by|COMIT
+Influenced|Icon|Lua
+/wiki/Solidity
+Influenced by|JavaScript|C++|Python|PowerShell
+/wiki/SPARK_(programming_language)
+Influenced by|Ada|Eiffel
+/wiki/Speedcoding
+Influenced by|Assembly language|machine code
+Influenced|Fortran|ALGOL 58|BASIC|C|PL/I|PACT I|MUMPS|Ratfor
+/wiki/SP/k
+Influenced by|PL/I
+Influenced|Turing
+/wiki/SQL
+Influenced by|Datalog
+Influenced|CQL|LINQ|SPARQL|PowerShell|JPQL|jOOQ|N1QL
+/wiki/Squeak
+Influenced by|Smalltalk|Lisp|Logo|Sketchpad|Simula|Self
+Influenced|Etoys|Croquet|Scratch
+/wiki/Squirrel_(programming_language)
+Influenced by|C++|JavaScript|Lua|Python
+Influenced|MiniD
+/wiki/Starlogo
+Influenced by|Logo
+Influenced|NetLogo|Etoys
+/wiki/Swift_(programming_language)
+Influenced by|Objective-C|Rust|Haskell|Ruby|Python|C#|CLU|D
+/wiki/Swift_(parallel_scripting_language)
+Influenced by|C|functional programming
+/wiki/SystemVerilog
+Influenced by|Verilog|VHDL|C++|OpenVera|Java
+/wiki/T_(programming_language)
+Influenced by|Scheme
+Influenced|EuLisp|Joule
+/wiki/Tcl
+Influenced by|AWK|Lisp
+Influenced|PHP|PowerShell|Tea
+/wiki/Tea_(programming_language)
+Influenced by|Tcl|Java|Scheme
+/wiki/TELCOMP
+Influenced by|JOSS
+Influenced|MUMPS
+/wiki/TOM_(object-oriented_programming_language)
+Influenced by|Objective-C
+/wiki/TTM_(programming_language)
+Influenced by|TRAC
+/wiki/Turing_(programming_language)
+Influenced by|Euclid|Pascal|SP/k
+/wiki/TUTOR_(programming_language)
+Influenced|Regency Systems
+/wiki/TypeScript
+Influenced by|C#|Java|JavaScript
+Influenced|AtScript
+/wiki/Umple
+Influenced by|Java|C++|UML|Ruby|PHP
+/wiki/Unicon_(programming_language)
+Influenced by|Icon
+/wiki/Vala_(programming_language)
+Influenced by|C|C++|C#|D|Java|Boo
+/wiki/Verilog
+Influenced by|C|Fortran
+Influenced|SystemVerilog
+/wiki/VHDL
+Influenced by|Ada|Pascal
+/wiki/Visual_Basic
+Influenced by|BASIC
+Influenced|Visual Basic .NET|Gambas|Xojo|Basic4ppc|NS Basic
+/wiki/Visual_Basic_.NET
+Influenced by|Visual Basic
+Influenced|Small Basic
+/wiki/Visual_Fortran
+Influenced by|Speedcoding
+Influenced|ALGOL 58|BASIC|C|Chapel|CMS-2|Fortress|PL/I|PACT I|MUMPS|IDL|Ratfor
+/wiki/VSXu
+Influenced by|Pure Data|OpenGL|C++
+/wiki/WebAssembly
+Influenced by|asm.js|PNaCl
+/wiki/Whiley_(programming_language)
+Influenced by|Java|C|Python|Rust
+/wiki/Wolfram_Language
+Influenced by|APL|C|C++|FORTRAN|Lisp|Pascal|Prolog|Simula|Smalltalk|SMP
+Influenced|Julia
+/wiki/X10_(programming_language)
+Influenced by|C++|Java
+/wiki/XC_Programming_Language
+Influenced by|C|occam|CSP
+/wiki/XL_(programming_language)
+Influenced by|Ada|C++
+/wiki/XOTcl
+Influenced by|Tcl|OTcl
+/wiki/XPath
+Influenced by|XSLT|XPointer
+Influenced|XML Schema|XForms
+/wiki/XQuery
+Influenced by|XPath|SQL|XSLT
+/wiki/XSB
+Influenced by|Prolog
+/wiki/XSL_Transformations
+Influenced by|DSSSL
+/wiki/Xtend
+Influenced by|Java|Scala|Groovy|Smalltalk
+/wiki/Yoix
+Influenced by|C|Java|PostScript
+/wiki/Zebra_(programming_language)
+Influenced by|ANSI BASIC
+/wiki/ZetaLisp
+Influenced by|Lisp|Maclisp|Interlisp
+Influenced|Common Lisp
+/wiki/ZPL_(programming_language)
+Influenced by|C
+Influenced|Chapel
