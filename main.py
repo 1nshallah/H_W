@@ -1,54 +1,35 @@
-import re
-from urllib.request import urlopen
-from bs4 import  BeautifulSoup
-import sys
-url = 'https://en.wikipedia.org/wiki/List_of_programming_languages'
-list_P = BeautifulSoup(urlopen(url), "html.parser")
-pages = []
+import re #用于字符串匹配
+from urllib.request import urlopen  #用于实现对目标url的访问
+from bs4 import BeautifulSoup #用于从网页抓取数据
 
-for list in list_P.find_all('div',{'class':'div-col columns column-width'}):
-    for link in list.find_all('a',href=re.compile("^(/wiki)")):
-        if 'href' in link.attrs:
-            if link.attrs['href'] not in pages:
-                pages.append(link.attrs['href'])
-                # with open('list_PL.txt', 'a') as l:
-                #     l.write(link.attrs['href'] + '\n')
+url = 'https://en.wikipedia.org/wiki/List_of_programming_languages' #父节点地址
+list_P = BeautifulSoup(urlopen(url), "html.parser") #爬虫
+pages = []#把爬虫的叶节点地址存到列表
+for list in list_P.find_all('div',{'class':'div-col columns column-width'}): #探索div节点
+    for link in list.find_all('a',href=re.compile("^(/wiki)")): #是否div子节点中存在需要的a节点
+        if 'href' in link.attrs: #是否需要的属性
+            if link.attrs['href'] not in pages: #是否确认重复
+                pages.append(link.attrs['href']) #加到pages列表
 
-#  "url\nInflueced, Influenced by not found\n"
-for i in pages: #surl파싱
-    sUrl = 'https://en.wikipedia.org' + i
-    print(sUrl)
-    bs_obj = BeautifulSoup(urlopen(sUrl),"html.parser")
-    # print(i+"parsing 1")
-    table = bs_obj.find("table", {"class": "infobox"})
-    if table is None:
-        with open('crawl_log.txt','a') as log:
+for i in pages: #爬虫sUrl循环句
+    sUrl = 'https://en.wikipedia.org' + i #子节点的地址
+    print(sUrl) #确认编译位置
+    bs_obj = BeautifulSoup(urlopen(sUrl),"html.parser")#爬虫子节点
+    table = bs_obj.find("table", {"class": "infobox"})#找到table节点
+    if table is None: #是否不需要的子节点
+        with open('crawl_log.txt','a') as log:#以扩展名text保存
             log.write(i+'\n<table> not found\n')
     else:
         target_field_found = 0 # "Influenced", "Influenced by"
         text = ""
         
         for tr in table.find_all("tr"):
-            # Optimize : Backtrack
-            # (tr#i-1 -> tr#i -> tr#i -> tr#i+1) to (tr#i-1 -> tr#i -> tr#i+1)
-            # if visited(i) -> skip tr#i
             th = tr.find("th")
-            
-            # if th is not None and not th.isspace():
             if th is not None:
                 x = re.search("^Influenced$|^Influenced by$", th.text)
-                #print(x)
                 if (x):
                     target_field_found += 1
                     text += th.text + "|"
-
-                    # for td in tr.find_all('td'):
-                        # if td is not None and not td.isspace():
-                        # if td is not None:
-                            # print(td.text)
-                            # text += td.text+"|"
-
-                    # next <tr>'s <td>'s <a>(s)
                     atags = tr.next_sibling.find("td").find_all("a", href=re.compile("(/wiki/)"))
                     for atag in atags:
 
